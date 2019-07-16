@@ -58,7 +58,7 @@ public class Main {
         }
     }
 
-    //метод переводрачивания строки
+    //метод переворачивания строки
     private static String reverse(String str) {
         int strLength = str.length();
         StringBuffer result = new StringBuffer();
